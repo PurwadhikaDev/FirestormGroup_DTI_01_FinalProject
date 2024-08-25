@@ -15,6 +15,7 @@ This project showcases the application of machine learning techniques to predict
 - **Dashboard**: [Auto Insurance Dashboard](https://public.tableau.com/app/profile/qemhal.haritskhayru/viz/FinproDashboard_17237922279380/CustomerOverview?publish=yes)
 - **Unseen Dataset**: [df_unseen.csv](https://github.com/PurwadhikaDev/FirestormGroup_DTI_01_FinalProject/blob/fe42cd10e147ac6bdef3647c7e62f59ea76e335c/df_unseen.csv)
 - **CLV Predictor Model**: [CLV Predictor.pkl](https://github.com/PurwadhikaDev/FirestormGroup_DTI_01_FinalProject/blob/fe42cd10e147ac6bdef3647c7e62f59ea76e335c/CLV%20Predictor.pkl)
+- **Data Analysis and Machine Learning Notebook**: [Notebook](https://github.com/PurwadhikaDev/FirestormGroup_DTI_01_FinalProject/blob/d5f333e4cd6c8f30dde97039c263f77e7f7bb68a/Auto%20Insurance%20Final%20Project%20Purwadhika.ipynb)
 
 ## Background
 
